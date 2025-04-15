@@ -14,7 +14,7 @@ I'm Nitish Kumar Shah, a passionate and self-driven individual with a proven tra
 
 **Connect with Me:**
 
-* [[Linkedin]](https://www.linkedin.com/in/iamnitishshah/)
+* [Linkedin](https://www.linkedin.com/in/iamnitishshah/)
 * [Email](mailto:NitishShah700@gmail.com)
 
 Thank you for visiting my profile! I'm excited about the possibility of contributing to your team.
