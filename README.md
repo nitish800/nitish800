@@ -1,22 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Nitish Shah
 
-I'm Nitish Kumar Shah, a passionate and self-driven individual with a proven track record in developing and launching successful Android applications. I'm currently seeking a **Junior Android Developer opportunity** where I can contribute my skills and enthusiasm to a dynamic and innovative team.
-
-**What I Bring to the Table:**
-
-* **Hands-on Android Development Experience:** Developed and launched **6+ Android applications** on the Google Play Store, achieving over **500,000+ downloads** collectively. This includes experience with the full mobile development lifecycle, from UI/UX design to deployment.
-* **Key Skills:** Proficient in **Kotlin** and familiar with Android Studio, Firebase, UI/UX Design Principles, In-App Purchases, and Git.
-* **Problem-Solving & Analytical Abilities:** My experience as a **Cybersecurity Researcher**, conducting over **200 successful bug bounty reports**, has honed my analytical, problem-solving, and debugging skills – qualities that are directly transferable and valuable in software development.
-* **Entrepreneurial Spirit:** Successfully developed and sold a high-performing Android application, demonstrating market insight and business acumen.
-* **Eagerness to Learn and Grow:** I am a quick learner and highly motivated to expand my knowledge and contribute effectively within a professional development environment.
-
-**I'm actively looking for a Junior Android Developer role where I can leverage my existing skills and passion to build impactful mobile experiences.**
-
-**Connect with Me:**
-
-* [Linkedin](https://www.linkedin.com/in/iamnitishshah/)
-* [Email](mailto:NitishShah700@gmail.com)
-
-Thank you for visiting my profile! I'm excited about the possibility of contributing to your team.
+**Security Researcher | Recon Specialist | Indie Android Developer**
 
 ---
+
+## 🛡️ About Me
+
+I'm a self-taught cybersecurity researcher with 5+ years of experience uncovering real-world vulnerabilities across the internet. My specialty lies in **exposure hunting** — scanning for misconfigured services, open directories, leaked credentials, and API keys using tools like **Shodan**, **ZoomEye**, and custom automation scripts.
+
+Over the years, I’ve reported **500+ vulnerabilities**, with **200+ paid reports** across programs like **HackerOne**, **Bugcrowd**, and direct disclosures — including high-impact leaks at organizations like **CERN**, **mSpy**, and **Voxox**, covered in global media.
+
+Outside security, I’ve built and published **7 Android apps** (500K+ downloads) with in-app purchases.
+
+---
+
+## 🧠 What I Do
+
+- 🔍 Reconnaissance & OSINT Automation  
+- ☁️ Exposed Service & Cloud Misconfiguration Discovery  
+- 🤖 Bash/Python Scripting for Recon Pipelines  
+- 📱 Android Development (Kotlin, Firebase, MVVM)  
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Security & Recon**: Shodan, ZoomEye, GitHub Dorks, Nmap, Burp Suite  
+- **Programming**: Python, Bash, Kotlin, JavaScript  
+- **Mobile Dev**: Android Studio, Firebase, Room, Retrofit  
+- **Other**: Git, Docker, Linux, Postman
+
+---
+
+## 📫 Let’s Connect
+
+I'm currently open to **entry-level security roles**, **Android positions**, or **collaborative projects** in the security space.
+
+- 🌐 [LinkedIn](https://linkedin.com/in/iamnitishshah)  
+- 🔓 [HackerOne](https://hackerone.com/nitishshah)  
+- 📧 nitishshah700@gmail.com
+
+---
+
+> "Secure what you can see. Hunt what you can't."  
+> — Nitish Shah
+
